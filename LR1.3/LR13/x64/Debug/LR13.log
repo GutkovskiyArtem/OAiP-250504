@@ -1,6 +1,0 @@
-﻿  main.c
-D:\myprojects\LR13\LR13\main.c(12,10): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
-D:\myprojects\LR13\LR13\main.c(12,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-D:\myprojects\LR13\LR13\main.c(13,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-D:\myprojects\LR13\LR13\main.c(14,8): warning C4244: =: преобразование "float" в "int", возможна потеря данных
-  LR13.vcxproj -> D:\myprojects\LR13\x64\Debug\LR13.exe
