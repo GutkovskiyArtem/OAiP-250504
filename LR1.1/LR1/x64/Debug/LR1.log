@@ -1,4 +1,0 @@
-﻿  main.c
-D:\myprojects\LR1\LR1\main.c(7,17): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-D:\myprojects\LR1\LR1\main.c(8,21): warning C4244: =: преобразование "double" в "float", возможна потеря данных
-  LR1.vcxproj -> D:\myprojects\LR1\x64\Debug\LR1.exe
