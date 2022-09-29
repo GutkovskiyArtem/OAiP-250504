@@ -1,0 +1,4 @@
+﻿  3.c
+D:\myprojects\LR23\LR23\3.c(23,9): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+D:\myprojects\LR23\LR23\3.c(35,14): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  LR23.vcxproj -> D:\myprojects\LR23\x64\Debug\LR23.exe
