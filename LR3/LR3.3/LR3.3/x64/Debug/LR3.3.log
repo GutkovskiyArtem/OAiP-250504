@@ -1,0 +1,5 @@
+﻿  3.c
+D:\myprojects\LR3.3\LR3.3\3.c(16,29): warning C4013: rand: нет определения; предполагается "extern" с возвратом типа "int"
+D:\myprojects\LR3.3\LR3.3\3.c(33,5): warning C4013: gets: нет определения; предполагается "extern" с возвратом типа "int"
+D:\myprojects\LR3.3\LR3.3\3.c(39,13): warning C4013: exit: нет определения; предполагается "extern" с возвратом типа "int"
+  LR3.3.vcxproj -> D:\myprojects\LR3.3\x64\Debug\LR3.3.exe
