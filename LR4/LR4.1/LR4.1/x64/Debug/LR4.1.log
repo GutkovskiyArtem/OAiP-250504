@@ -1,0 +1,4 @@
+﻿  1.cpp
+D:\myprojects\LR4.1\LR4.1\1.cpp(34,9): warning C4244: функция: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\myprojects\LR4.1\LR4.1\func.h(39): warning C4716: output: должна возвращать значение
+  LR4.1.vcxproj -> D:\myprojects\LR4.1\x64\Debug\LR4.1.exe

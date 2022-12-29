@@ -1,0 +1,5 @@
+﻿  2.cpp
+D:\myprojects\LR4.2\LR4.2\2.cpp(22,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\myprojects\LR4.2\LR4.2\2.cpp(29,13): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+D:\myprojects\LR4.2\LR4.2\2.cpp(34,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  LR4.2.vcxproj -> D:\myprojects\LR4.2\x64\Debug\LR4.2.exe
