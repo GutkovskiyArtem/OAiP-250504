@@ -1,0 +1,6 @@
+﻿  2.cpp
+D:\myprojects\LR5.2\LR5.2\2.cpp(5,12): warning C4101: irow: неиспользованная локальная переменная
+  arrays.cpp
+  func.cpp
+  Создание кода...
+  LR5.2.vcxproj -> D:\myprojects\LR5.2\x64\Debug\LR5.2.exe

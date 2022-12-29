@@ -1,0 +1,3 @@
+﻿  1.cpp
+D:\myprojects\LR5.1fix\LR5.1fix\1.cpp(5,6): warning C4101: i: неиспользованная локальная переменная
+  LR5.1fix.vcxproj -> D:\myprojects\LR5.1fix\x64\Debug\LR5.1fix.exe
